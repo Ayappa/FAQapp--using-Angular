@@ -1,6 +1,23 @@
-# FAQapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
+#### create custom question and answer
+![details](https://user-images.githubusercontent.com/22851920/60059233-a1d94e00-96b9-11e9-8760-27bf2f95aaad.PNG)
+
+
+#### click "show" button to preview your answer
+![show](https://user-images.githubusercontent.com/22851920/60059276-d947fa80-96b9-11e9-9656-62eeadd52fbd.PNG)
+
+
+#### click "delete" button to remove your question
+![delete](https://user-images.githubusercontent.com/22851920/60059311-0bf1f300-96ba-11e9-854e-c46d1e15379b.PNG)
+
+
+
+
+
+
+
+
 
 ## Development server
 
